@@ -10,3 +10,11 @@ collectMetaData.py -- cycles through a directory containing customer reviews fro
 
 DirOps.py -- Differentiates single-category and multi-category customers and creates a batch file for moving one group to a new directory.
 
+BeautSoupAndTokens--includes:
+
+-a function to detect html, and create text entry with html stripped and also a non-stripped version
+  
+-basic NLP over a set of files; tokenizing, finding the most common token, calculating lexical diversity
+  
+-comments
+
