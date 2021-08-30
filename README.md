@@ -1,4 +1,4 @@
-# More-about-what-you-looked-up
+# More-about-what-the-papers
 Code and data supporting my publications. This is a file listing organized by publication, with a short description of each file.
 
 Publication: 
