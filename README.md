@@ -1,8 +1,11 @@
-# More-about-the-papers
+# Notes
 Code and data supporting my publications. This is a file listing organized by publication, with a short description of each file.
 
+Submission to CMCL Feb 2025:
+CollectedAnnotations
+
 Publication: 
-Information Techniques Expand to Natural Language Processing, submitted to Submitted to the Recent Advances in Information Fusion Special Issue in August, 2021
+None, August, 2021
 
 Files:
 
