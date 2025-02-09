@@ -1,8 +1,8 @@
 # Notes
-Code and data supporting my publications. This is a file listing organized by publication, with a short description of each file.
+Code and data supporting my publications. This is a file listing organized by publication, with a short description of each file. This is mostly temporary files for use during anonymous review periods. Most recent items are at the top.
 
 Submission to CMCL Feb 2025:
-CollectedAnnotations
+CollectedAnnotations.csv
 
 Publication: 
 None, August, 2021
